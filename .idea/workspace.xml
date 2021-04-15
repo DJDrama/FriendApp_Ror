@@ -3,8 +3,9 @@
   <component name="ChangeListManager">
     <list default="true" id="aacd35db-1c1d-45b8-863b-d4cf43c35cc6" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/views/friends/index.html.erb" beforeDir="false" afterPath="$PROJECT_DIR$/app/views/friends/index.html.erb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/views/friends/show.html.erb" beforeDir="false" afterPath="$PROJECT_DIR$/app/views/friends/show.html.erb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/views/friends/_form.html.erb" beforeDir="false" afterPath="$PROJECT_DIR$/app/views/friends/_form.html.erb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/views/friends/edit.html.erb" beforeDir="false" afterPath="$PROJECT_DIR$/app/views/friends/edit.html.erb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/views/friends/new.html.erb" beforeDir="false" afterPath="$PROJECT_DIR$/app/views/friends/new.html.erb" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -66,7 +67,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1618323871881</updated>
-      <workItem from="1618323874269" duration="4421000" />
+      <workItem from="1618323874269" duration="5008000" />
     </task>
     <servers />
   </component>
