@@ -3,7 +3,9 @@
   <component name="ChangeListManager">
     <list default="true" id="aacd35db-1c1d-45b8-863b-d4cf43c35cc6" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/config/routes.rb" beforeDir="false" afterPath="$PROJECT_DIR$/config/routes.rb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/views/friends/index.html.erb" beforeDir="false" afterPath="$PROJECT_DIR$/app/views/friends/index.html.erb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/views/friends/new.html.erb" beforeDir="false" afterPath="$PROJECT_DIR$/app/views/friends/new.html.erb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/views/home/_header.html.erb" beforeDir="false" afterPath="$PROJECT_DIR$/app/views/home/_header.html.erb" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -65,7 +67,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1618323871881</updated>
-      <workItem from="1618323874269" duration="2674000" />
+      <workItem from="1618323874269" duration="3521000" />
     </task>
     <servers />
   </component>
